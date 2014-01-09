@@ -14,6 +14,8 @@ namespace Proshot.CommandServer
         /// <summary>
         /// The type of command to send.If you wanna use the Message command type,create a Message class instead of command.
         /// </summary>
+        /// 
+      //////////////////////////////
         public CommandType CommandType
         {
             get { return cmdType; }

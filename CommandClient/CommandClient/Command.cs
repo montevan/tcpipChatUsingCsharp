@@ -14,6 +14,7 @@ namespace Proshot.CommandClient
         /// <summary>
         /// [Gets/Sets] The IP address of command sender.
         /// </summary>
+        /// ///////////////////////////////////
         public IPAddress SenderIP
         {
             get { return senderIP; }
